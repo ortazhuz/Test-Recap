@@ -1,3 +1,2 @@
 # Test-Recap
-This is my vey first Repo on GitHub
-This is the file for my instruction
+This is the file for my instruction - 12345
